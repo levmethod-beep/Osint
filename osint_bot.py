@@ -27,7 +27,7 @@ BOT_TOKEN = "8208285998:AAGrS794DrTdDLDF5lUxFDOF17FDt9dKnCU"
 OWNER_ID = 7596091449
 CHANNEL_1 = "@Osintbylev"
 CHANNEL_2 = "@Free_cc_cards"
-WATERMARK = "**DESTROYER**"
+WATERMARK = "**@Tg_Starklev**"
 DAILY_LIMIT = 50
 API_1_BASE = "https://danger-vip-key.shop/api.php?key=CyberXWorm&number="
 API_2_BASE = "http://india.42web.io/vehicle/?q="
@@ -618,4 +618,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
