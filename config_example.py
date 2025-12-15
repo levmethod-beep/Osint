@@ -12,7 +12,7 @@ CHANNEL_1 = "@your_channel_1"  # Replace with first channel username
 CHANNEL_2 = "@your_channel_2"  # Replace with second channel username
 
 # Watermark to add to all responses
-WATERMARK = "@Everyonesking"
+WATERMARK = "@Tg_Starklev"
 
 # Daily search limit per user
 DAILY_LIMIT = 50
@@ -20,4 +20,5 @@ DAILY_LIMIT = 50
 # API endpoints (already configured, but you can change if needed)
 API_1_BASE = "https://danger-vip-key.shop/api.php?key=CyberXWorm&number="
 API_2_BASE = "http://india.42web.io/vehicle/?q="
+
 
